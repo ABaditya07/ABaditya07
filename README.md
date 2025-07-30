@@ -88,4 +88,4 @@
 
 ---
 
-⚡ *“Always building, always learning.”*
+⚡ *“Always building, always learning ”*
