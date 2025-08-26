@@ -12,7 +12,7 @@
 - 💻 I'm a passionate **Full Stack Developer (MERN)** building scalable web applications and modern user interfaces.
 - 🌐 Check out my portfolio: [My Personal Website](https://abaditya07.github.io/PersonalPortFolio/)
 - 📫 Reach me at: **adityabhure63@gmail.com**
-- 📄 Explore my resume: [View Resume](https://www.canva.com/design/DAGUd5Z7XvE/m2EkVz94rZ3Oc5wMsqBN8g/view?utm_content=DAGUd5Z7XvE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfef527e430)
+- 📄 Explore my resume: [View Resume](https://drive.google.com/file/d/1i4K6a6_WzPF2NhSUPzCn6t_aaGUDBqen/view?usp=drive_link)
 - 🎯 Currently diving deeper into system design, performance optimization, and scalable backend architectures.
 
 ---
